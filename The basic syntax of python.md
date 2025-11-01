@@ -2,7 +2,7 @@
 ## 1. Defined Function
 **This is of the utmost importance**: you will be unable to run your program without any definition
 
-*1. A little definition is like:*
+*1. A easy definition is like:*
 ```python
    x = 1
    y = 3	# x , y are function name and '1','3' are value
